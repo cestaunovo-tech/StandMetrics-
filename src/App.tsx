@@ -481,7 +481,7 @@ export default function App() {
               <input type="hidden" name="_subject" value="Nueva solicitud de demo StandMetrics" />
               <input type="hidden" name="_captcha" value="false" />
               <input type="hidden" name="_template" value="table" />
-              <input type="hidden" name="_next" value="https://standmetrics.cl/gracias.html" />
+              <input type="hidden" name="_next" value="https://standmetrics.vercel.app" />
               <input name="nombre" placeholder="Nombre" required />
               <input name="empresa" placeholder="Empresa" required />
               <input name="email" type="email" placeholder="Email" required />
