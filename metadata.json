@@ -1,0 +1,6 @@
+{
+  "name": "StandMetrics — No cuentes personas. Mide atención.",
+  "description": "StandMetrics mide visitantes, permanencia y atención en stands, ferias, eventos y activaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
